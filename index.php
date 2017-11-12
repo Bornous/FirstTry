@@ -8,7 +8,7 @@
 			
 	
 
-
+	echo "Git jest ciezki!!!";
 
 
 

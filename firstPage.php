@@ -1,6 +1,6 @@
 <?php
 
-	$jsF='"background-color:grey;color:black;"';
+	$jsF='"background-color:grey;color:black;height:30px;width:300px;text-align:center;"';
 	
 
 
